@@ -1,7 +1,6 @@
 import React from 'react';
-import styled from 'styled-components'; // Import styled from 'styled-components'
+import styled from 'styled-components';
 
-// Définissez les styles pour le composant Modal
 const ModalWrapper = styled.div`
   position: fixed;
   top: 50%;
